@@ -11,7 +11,7 @@
 ### Languages and tools I work with :
 <p>
 <img src = "https://pngset.com/images/html-css-js-icons-text-logo-symbol-trademark-transparent-png-1153004.png" width ="150px">
-<img src = "https://brandslogos.com/wp-content/uploads/thumbs/git-logo-vector.svg" width ="150px">
+<img src = "https://brandslogos.com/wp-content/uploads/thumbs/git-logo-vector.svg" width ="130px">
 <img src = "https://www.kindpng.com/picc/m/128-1280192_github-logo-png-github-png-transparent-png.png" width ="60px">
 <img src = "https://www.softmagazin.ru/upload/iblock/3e7/3e71e85e7928c7dcff86f348eb757c92.png" width ="60px">
 </p>
