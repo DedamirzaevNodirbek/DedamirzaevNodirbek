@@ -6,4 +6,5 @@
 <a href = "nodirbekdedamirzaev@gmail.com"><img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqDCj1Tsszcidh0g9aN01Nav_ZMvWNqWOKi2Me05YDAL9jpoa0mOu3MlM2uLMHto5QQDg&usqp=CAU" width  = "30px">
 </a>
 <a href = "https://t.me/nodirbek014"><img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXnxPeyjrgQtEc1Ue9pN1ustb9VcDVEXNhCQ&usqp=CAU" width  = "30px"></a>
-<a href = "https://t.me/nodirbek014"><img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXnxPeyjrgQtEc1Ue9pN1ustb9VcDVEXNhCQ&usqp=CAU" width  = "30px"></a>
+<a href = "https://www.instagram.com/nodirbeek.014/"><img src ="https://balticguide.ee/wp-content/uploads/2017/03/instagram-Logo-PNG-Transparent-Background-download.png" width  = "30px"></a>
+<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Skype_logo_%28fully_transparent%29.svg/1280px-Skype_logo_%28fully_transparent%29.svg.png" width  = "60px">
