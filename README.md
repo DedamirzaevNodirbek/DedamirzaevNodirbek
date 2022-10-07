@@ -15,9 +15,3 @@
 <img src = "https://www.kindpng.com/picc/m/128-1280192_github-logo-png-github-png-transparent-png.png" width ="60px">
 <img src = "https://www.softmagazin.ru/upload/iblock/3e7/3e71e85e7928c7dcff86f348eb757c92.png" width ="60px">
 </p>
-<b>Now learning: 
-</b>
-<p>
-<img src = "https://www.nicepng.com/png/detail/31-315310_react-hexagon-react-js-transparent-background.png" width ="60px">
-<img src = "https://www.pngfind.com/pngs/m/509-5090411_file-1-5-stars-svg-1-5-star-png.png" width ="90px">
-</p>
